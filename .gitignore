@@ -1,0 +1,6 @@
+*.h5
+MRI images/
+*.pyc
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
